@@ -14,7 +14,7 @@ This is my First Github guide and code
  Report me If you find the bugs or any issues. And do not hope any update from me, I am a Newbie.
 - With every EFI update you retrieve from here please remember to go through the **post install guide**(Below)
 
-# :diamond_shape_with_a_dot_inside: buy my books  Donate :  :diamond_shape_with_a_dot_inside:
+# :diamond_shape_with_a_dot_inside: buy my books :  :diamond_shape_with_a_dot_inside:
 
 if you feel helped, please consider buy my books, even you cant read it because written in bahasa indonesia. It mean a lot for me
 
@@ -39,7 +39,7 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
 
  `Tested Devices`: All (i3,i5,i7) comet lake-> Thinkbook 13 14 15.
  
- `Tested CPUs`: **i3-10110.
+ `Tested CPUs`: **i3-10110**
  
  `Integrated Graphics`:   **Intel UHD Graphic 620**
  
@@ -72,10 +72,7 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
  <summary><strong>What's not working ⚠️</strong></summary>
  </br>
  
-* :heavy_exclamation_mark: Hdmi slot. To get work, buy a USB Dock.(Try Type-c and usb Type A docks for our infinix) IF the usb Type-C dock works for display out, Inform me.
 * :heavy_exclamation_mark: Bluetooth
-* :heavy_exclamation_mark: Didn't Mapped Keyboard keys. But it's not mandatory. I like the default keyboard mapping.
-* :heavy_exclamation_mark: Don't expect too much battery in this Hackintosh like windows. You get atleast 6-hours battery-backup more.
 * :heavy_exclamation_mark: Wifi
 </details>
 
@@ -111,9 +108,9 @@ After setting these settings in bios, save it and exit.
 
 **This is a simple and quick summary of the online install USB creation.**
 
-### macOS Bigsur Installer with Windows And Mac Users:
+### macOS Monterey Installer with Windows And Mac Users:
 <details>
- <summary><strong>Process1.MacOS Monterey Online Installer from Windows, linux and macOS:</strong></summary>
+ <summary><strong>MacOS Monterey Online Installer from Windows, linux and macOS:</strong></summary>
  
   -  **`For Windows users`**
  
