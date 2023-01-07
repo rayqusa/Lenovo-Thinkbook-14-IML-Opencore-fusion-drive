@@ -14,11 +14,14 @@ This is my First Github guide and code
  Report me If you find the bugs or any issues. And do not hope any update from me, I am a Newbie.
 - With every EFI update you retrieve from here please remember to go through the **post install guide**(Below)
 
-# :diamond_shape_with_a_dot_inside:buy me a coffee :coffee:  Donate :  :diamond_shape_with_a_dot_inside:
+# :diamond_shape_with_a_dot_inside: buy my books  Donate :  :diamond_shape_with_a_dot_inside:
 
 if you feel helped, please consider buy my books, even you cant read it because written in bahasa indonesia. It mean a lot for me
+
 https://play.google.com/store/books/details?id=KEmkEAAAQBAJ&pli=1
+
 https://play.google.com/store/books/details/Novianta_Kuswandi_Coaching_Handbook?id=yQJbDwAAQBAJ
+
 https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development_Handbook?id=6KxaDwAAQBAJ
 
  <details><summary>DISCLAIMER</summary>
@@ -155,9 +158,10 @@ After setting these settings in bios, save it and exit.
  21. hit `reset`button go to boot option. choose your flashdisk.
  22. Now in the OpenCore menu select the name of your USB partiton.
  23. go to disk utility, delete Partition in harddisk, and create APFS one. how to do that, see instruction below! 
- 24. Great! Now install and set up macOS Monterey
- 25. the system reboots for once or twice so, when rebooting choose the usb everytime until you see your Macos Partition name in boot menu.
- 26. After booting into OS, You need to download opencore configurator and mount the system drive, Then paste the efi to the mounted efi from the USB or drive. then reboot and remove usb.
+ 24. you can connect internet via RJ45/Ethernet/LAN or via Tether android. you can take internet access from wifi then passthrough USB port 
+ 25. Great! Now install and set up macOS Monterey
+ 26. the system reboots for once or twice so, when rebooting choose the usb everytime until you see your Macos Partition name in boot menu.
+ 27. After booting into OS, You need to download opencore configurator and mount the system drive, Then paste the efi to the mounted efi from the USB or drive. then reboot and remove usb.
  </details>
 
 <details >
