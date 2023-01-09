@@ -37,9 +37,9 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
 
 # _Device Information_                    
 
- `Tested Devices`: All (i3,i5,i7) comet lake-> Thinkbook 13 14 15.
+ `Tested Devices`: i3 i5 comet lake-> Thinkbook 14 15.
  
- `Tested CPUs`: **i3-10110**
+ `Tested CPUs`: **i3-10110 i5-10210U**
  
  `Integrated Graphics`:   **Intel UHD Graphic 620**
  
