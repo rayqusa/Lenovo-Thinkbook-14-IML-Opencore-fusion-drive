@@ -1,6 +1,6 @@
 This is my First Github guide and code
 
-## :star_struck: :star_struck: Now the EFI supports Monterey!!:star_struck: :star_struck:
+## :star_struck: :star_struck: Now the EFI supports Ventura!!:star_struck: :star_struck:
 <hr>
 
 ## Lenovo-Thinkbook-14-IML-Opencore-guide.
@@ -64,7 +64,6 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
 - :heavy_check_mark: brightness keys default key
 - :heavy_check_mark: Wake / Shutdown
 - :heavy_check_mark: Short sleep, Long sleep
-- :heavy_check_mark: HDMI
 - :heavy_check_mark: Tether via Android Phone
 
 </details>
@@ -74,6 +73,7 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
  
 * :heavy_exclamation_mark: Bluetooth
 * :heavy_exclamation_mark: Wifi
+* :heavy_exclamation_mark: HDMI
 </details>
 
  <hr>
