@@ -8,7 +8,7 @@ This is my First Github guide and code
 
 <hr>
 
-![img](https://img.shields.io/badge/macOS%20Support-Ventura--latest-blue)![img](https://img.shields.io/badge/OpenCore%20Version-0.8.9-red)
+![img](https://img.shields.io/badge/macOS%20Support-Ventura--latest-blue)![img](https://img.shields.io/badge/OpenCore%20Version-1.0.0-red)
 
 - These are the builts from me.  You might get the future updates for this machine.
  Report me If you find the bugs or any issues. And do not hope any update from me, I am a Newbie.
@@ -43,9 +43,11 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
  
  `Integrated Graphics`:   **Intel UHD Graphic 620**
  
- `Wireless Cards Tested`: **Realtek 8822ce**
- (wireless via Tether)
+ `Wireless Cards Tested`: **Fenvi BCM94360NG**
+
  `Ethernet` : Realtek RTL8111
+
+  `HDD` : Fusion Drive Ready [tutorial]([https://github.com/devboloji](https://www.econtechnologies.com/chronosync/tn-cs-apfs-fusion-drive.html))
 
  If anyone tested, Let me know!
 <hr>
@@ -64,16 +66,14 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
 - :heavy_check_mark: brightness keys default key
 - :heavy_check_mark: Wake / Shutdown
 - :heavy_check_mark: Short sleep, Long sleep
-- :heavy_check_mark: Tether via Android Phone
+- :heavy_check_mark: Wifi (change the wireless card, 5Ghz bug fixed)
 
 </details>
 <details>
  <summary><strong>What's not working ⚠️</strong></summary>
  </br>
  
-* :heavy_exclamation_mark: Bluetooth
-* :heavy_exclamation_mark: Wifi
-* :heavy_exclamation_mark: HDMI
+* :heavy_exclamation_mark: HDMI out
 </details>
 
  <hr>
