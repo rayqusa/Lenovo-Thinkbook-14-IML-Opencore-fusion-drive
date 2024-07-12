@@ -47,7 +47,7 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
 
  `Ethernet` : Realtek RTL8111
 
-  `HDD` : Fusion Drive Ready [tutorial](https://www.econtechnologies.com/chronosync/tn-cs-apfs-fusion-drive.html)
+  `HDD` : Fusion Drive Ready [tutorial](https://www.econtechnologies.com/chronosync/tn-cs-apfs-fusion-drive.html) if both of your drive is ssd, do not use **-main** and **-secondary** let mac OS decided to place files 
 
  If anyone tested, Let me know!
 <hr>
