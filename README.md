@@ -67,13 +67,14 @@ https://play.google.com/store/books/details/Novianta_Kuswandi_People_Development
 - :heavy_check_mark: Wake / Shutdown
 - :heavy_check_mark: Short sleep, Long sleep
 - :heavy_check_mark: Wifi (change the wireless card, 5Ghz bug fixed)
+- :heavy_check_mark: HDMI out
 
 </details>
 <details>
  <summary><strong>What's not working ⚠️</strong></summary>
  </br>
  
-* :heavy_exclamation_mark: HDMI out
+* :heavy_exclamation_mark: none
 </details>
 
  <hr>
