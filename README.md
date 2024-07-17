@@ -201,7 +201,7 @@ Note: you can still see the boot picker with ShowPicker set to no/false by spamm
 
 <details><summary><strong><ins> 5. Add Device Properties for Serial number, MLB, ROM, Sytem-UUID.</ins></strong></summary>
  
-Use `MacBookPro16,1` SMBios. Recommended : opencore configurator, Go to the  `PlatformInfo >SMBios`Tick the "Add to the section to config file" in `SMBIOS` and `DATAHUB -GENERIC- PLATFORMNVRAM` and continue your Adding your SMBIOS.
+Use `MacBookPro16,3` SMBios. Recommended : opencore configurator, Go to the  `PlatformInfo >SMBios`Tick the "Add to the section to config file" in `SMBIOS` and `DATAHUB -GENERIC- PLATFORMNVRAM` and continue your Adding your SMBIOS.
 Follow this [Opencore guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#generate-a-new-serial) to set up serial number and the accompanying info to get iServices.
  </details>
  
