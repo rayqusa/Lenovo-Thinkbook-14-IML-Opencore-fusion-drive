@@ -8,7 +8,7 @@ This is my First Github guide and code
 
 <hr>
 
-![img](https://img.shields.io/badge/macOS%20Support-Ventura--latest-blue)![img](https://img.shields.io/badge/OpenCore%20Version-1.0.0-red)
+![img](https://img.shields.io/badge/macOS%20Support-Ventura--latest-blue)![img](https://img.shields.io/badge/OpenCore%20Version-1.0.2-red)
 
 - These are the builts from me.  You might get the future updates for this machine.
  Report me If you find the bugs or any issues. And do not hope any update from me, I am a Newbie.
